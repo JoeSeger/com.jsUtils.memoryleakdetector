@@ -9,7 +9,7 @@ To install this package, you can use the Unity Package Manager. Follow these ste
 1. Open your Unity project.
 2. Open the Package Manager window by selecting `Window > Package Manager` from the menu.
 3. Click the `+` button at the top of the Package Manager window and select `Add package from git URL`.
-4. In the text box, enter the following URL: https://github.com/JoeSeger/jsUtils.memoryLeakDetector`.
+4. In the text box, enter the following URL: `https://github.com/JoeSeger/jsUtils.memoryLeakDetector`.
 5. Click the `Add` button to install the package.
 
 ## Usage
