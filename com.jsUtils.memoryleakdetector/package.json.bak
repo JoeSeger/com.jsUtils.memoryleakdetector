@@ -1,5 +1,5 @@
 ﻿{
-  "name": "com.jsUtils.memoryleakdetector",
+  "name": "com.joeseger.memoryleakdetectortoggle",
   "displayName": "Memory Leak Detector Toggle",
   "version": "1.0.0",
   "unity": "2023.1.0",
